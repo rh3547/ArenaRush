@@ -1,0 +1,10 @@
+1430442250059	Rename field 'collide'
+1430442587259	Rename method 'isCollides'
+1430442612373	Rename field 'collidable'
+1430458913483	Rename field 'stop'
+1430460853882	Delete element
+1430513012289	Move compilation unit
+1430523758865	Rename method 'renderCollisionBoxes'
+1430524678998	Rename type 'AStarLinkedList'
+1430526472083	Rename field 'moveType'
+1430529972355	Rename method 'killObject'

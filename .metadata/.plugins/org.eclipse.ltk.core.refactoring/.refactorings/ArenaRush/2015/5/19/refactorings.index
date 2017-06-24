@@ -1,0 +1,22 @@
+1430624385379	Rename type 'Boid'
+1430624601049	Delete element
+1430628706317	Rename method 'projectileCollide'
+1430675834451	Copy file
+1430675843213	Delete element
+1430676768062	Rename type 'ARTools'
+1430677642356	Rename field 'shift'
+1430683504513	Rename type 'TileBarricadeSkinny'
+1430713893319	Delete element
+1430713918737	Rename type 'ARProjectiles'
+1430716102162	Delete element
+1430716123628	Rename field 'id'
+1430716164680	Delete element
+1430716287089	Rename method 'projectileObjectCollide'
+1430717068504	Delete element
+1430717787563	Rename type 'BouncyBullet'
+1430722234318	Rename method 'switchWeaponImage'
+1431025704278	Rename local variable 'boxHeight'
+1431026266105	Rename local variable 'boxWidth'
+1431030006382	Rename local variable 'horizThickness'
+1431033115191	Rename type 'TileBarricadeSkinnyVert'
+1431134615898	Rename local variable 'obj'

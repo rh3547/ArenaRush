@@ -1,0 +1,16 @@
+1431317174838	Rename local variable 'tileCollides'
+1431317529025	Rename local variable 'start'
+1431398697462	Rename type 'AStarNode'
+1431398702333	Rename type 'AStarPath'
+1431402445173	Move compilation units
+1431403222437	Copy method
+1431406425287	Delete element
+1431412701228	Delete element
+1431412702879	Delete element
+1431446325725	Move compilation unit
+1431451679194	Move compilation units
+1431451699299	Move compilation units
+1431452619723	Rename type 'AStarEnemy'
+1431452993914	Delete element
+1431489523296	Rename field 'aStar'
+1431489937275	Delete element

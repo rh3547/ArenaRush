@@ -1,0 +1,15 @@
+1430074477213	Rename type 'ArenaRush'
+1430107322188	Rename type 'KeyboardListener'
+1430414546231	Delete element
+1430414719543	Rename package 'com.binextechnologies.arenarush.world'
+1430416922961	Rename local variable 'scanner'
+1430419566362	Rename resource 'world1.world'
+1430419874551	Delete element
+1430421436994	Rename field 'xPos'
+1430421441532	Rename field 'yPos'
+1430421455190	Rename method 'getxPos'
+1430421461710	Rename method 'getyPos'
+1430421468782	Rename method 'setxPos'
+1430421475702	Rename method 'setyPos'
+1430421678706	Rename method 'tick'
+1430422275972	Rename resource 'sand.png'
